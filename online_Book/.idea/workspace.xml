@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c307d0-a305-42b1-a43a-5a874bb0b4a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mbJkHODDLet27SyQ5UdPkpFHqd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\app\order" />
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\app\order\migrations" />
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\templates" />
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\templates\search" />
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\utils" />
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\app\user" />
+      <recent name="D:\Frankie_Develop\python\NPEE-BookStore\online_Book\app\order" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.settings">
+    <configuration name="register.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63343/online_Book/templates/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="online_Book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/online_Book" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/online_Book/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="online_Book" type="Python.DjangoServer" factoryName="Django server">
+      <module name="online_Book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c307d0-a305-42b1-a43a-5a874bb0b4a2" name="Default Changelist" comment="" />
+      <created>1609756498822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609756498822</updated>
+      <workItem from="1609756504930" duration="6636000" />
+      <workItem from="1609986694779" duration="1297000" />
+      <workItem from="1610283678908" duration="5177000" />
+      <workItem from="1610344394352" duration="1793000" />
+      <workItem from="1610435276816" duration="2767000" />
+      <workItem from="1610450811881" duration="3941000" />
+      <workItem from="1611131376649" duration="1209000" />
+      <workItem from="1611212469032" duration="4057000" />
+      <workItem from="1611300299872" duration="4848000" />
+      <workItem from="1611383674732" duration="11697000" />
+      <workItem from="1611494808071" duration="5470000" />
+      <workItem from="1612157644466" duration="19137000" />
+      <workItem from="1612255333952" duration="12611000" />
+      <workItem from="1612316131437" duration="1457000" />
+      <workItem from="1612323917317" duration="9368000" />
+      <workItem from="1612366200850" duration="1274000" />
+      <workItem from="1612536855300" duration="2293000" />
+      <workItem from="1612584919781" duration="6903000" />
+      <workItem from="1612614436305" duration="5557000" />
+      <workItem from="1612687283135" duration="8163000" />
+      <workItem from="1612784787314" duration="11036000" />
+      <workItem from="1613095374925" duration="2434000" />
+      <workItem from="1613118504486" duration="6540000" />
+      <workItem from="1613223107271" duration="3046000" />
+      <workItem from="1613268800897" duration="7008000" />
+      <workItem from="1613440980874" duration="3303000" />
+      <workItem from="1613526723774" duration="7858000" />
+      <workItem from="1613714369377" duration="1939000" />
+      <workItem from="1613737507072" duration="2992000" />
+      <workItem from="1613791680863" duration="1200000" />
+      <workItem from="1613838276990" duration="1182000" />
+      <workItem from="1613888380324" duration="3213000" />
+      <workItem from="1613974402832" duration="20933000" />
+      <workItem from="1614045184589" duration="44903000" />
+      <workItem from="1614305497416" duration="13396000" />
+      <workItem from="1614478556601" duration="4000" />
+      <workItem from="1614495081872" duration="29370000" />
+      <workItem from="1614741471708" duration="39228000" />
+      <workItem from="1614933115410" duration="263000" />
+      <workItem from="1614933829537" duration="51254000" />
+      <workItem from="1615185586872" duration="16935000" />
+      <workItem from="1615255421163" duration="24382000" />
+      <workItem from="1615340354696" duration="20930000" />
+      <workItem from="1615391302251" duration="12000" />
+      <workItem from="1615427928800" duration="15544000" />
+      <workItem from="1615509876633" duration="12976000" />
+      <workItem from="1615547796457" duration="3526000" />
+      <workItem from="1615644262518" duration="41286000" />
+      <workItem from="1615874452663" duration="5363000" />
+      <workItem from="1616033781552" duration="1130000" />
+      <workItem from="1616139555569" duration="1195000" />
+      <workItem from="1616143141402" duration="10752000" />
+      <workItem from="1616812073640" duration="6683000" />
+      <workItem from="1617440626206" duration="126000" />
+      <workItem from="1618456577378" duration="791000" />
+      <workItem from="1619665412836" duration="906000" />
+      <workItem from="1620045785764" duration="1265000" />
+      <workItem from="1620825437849" duration="3483000" />
+      <workItem from="1620994579482" duration="2062000" />
+      <workItem from="1621042052642" duration="2945000" />
+      <workItem from="1622258257740" duration="63000" />
+      <workItem from="1622905999873" duration="1313000" />
+      <workItem from="1641218768743" duration="1020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641218787881">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1641218787881" />
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1641218770952">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1641218770952" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/online_Book$settings.coverage" NAME="settings Coverage Results" MODIFIED="1620825509762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/online_Book" />
+  </component>
+</project>
